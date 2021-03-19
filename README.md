@@ -1,4 +1,6 @@
 # VINS-Fusion-DetailedNote
 VINS-Fusion源码详细注释，单目、双目、IMU、GPS。
 
-完整版注释已上传，内容分析整理中~
+## 目录
+
+-[【VINS-Fusion】初始化标定](https://zhuanlan.zhihu.com/p/358232587)
